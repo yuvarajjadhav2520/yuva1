@@ -1,2 +1,2 @@
 # yuva1
-this is my fisrt repos
+this is my fisrt repo
